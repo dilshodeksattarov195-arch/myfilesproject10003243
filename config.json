@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfalidate",
+        "uuid": 14888613,
+        "checksum": "1p7rqw"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
